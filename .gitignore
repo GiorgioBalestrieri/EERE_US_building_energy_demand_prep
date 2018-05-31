@@ -2,8 +2,6 @@
 /**/.ipynb_checkpoints/
 __pycache__/
 /**/__pycache__/
-data/PR/
-data/US_single_site_preprocessed/
-data/US_single_site_graphs/
-data/US_single_site_results/
+data/*
+!data/.placeholder
 notebooks/*_pr.ipynb
